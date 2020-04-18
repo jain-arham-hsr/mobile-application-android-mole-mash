@@ -1,2 +1,2 @@
-# mole-mash
+# Mole Mash
 App Inventor project
